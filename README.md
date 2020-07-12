@@ -9,6 +9,11 @@ user should enter the filename as an argument.
 1.3 Using the exec function of the child_process module, read the content of the file and
 display on the standard output device.
 1.4 List the directory where this file exists.
+
+
+
+
+
 Coding Exercise 2:
 Problem Statement:
 2.1 Write a program to read the file content which is passed by the master process to
@@ -18,6 +23,10 @@ file and stream it to master so that the master process can display the content 
 screen.
 2.3 Close the files to avoid a memory leak. Handle errors related to file io in fork
 process.
+
+
+
+
 Coding Exercise 3:
 Problem Statement:
 3.1 Write a program to accept command-line arguments for username and password
